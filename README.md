@@ -11,7 +11,9 @@
 I'm an *Undergrad Student🎓 [@Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in)* pursuing BCA(Sci). I'm a *Tech Enthusiast 💻 😃* passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  
 ## ⚡ A Few Quick Facts
-
+<img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - 🌱 I’m currently learning Java ☕
-<img width="490" height="270" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" align=right>
+
+
+
