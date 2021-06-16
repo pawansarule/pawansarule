@@ -10,7 +10,7 @@
  
  
 ## ⚡ About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm a Aspiring Software Developer 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm an Aspiring Software Developer 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  
 ## ⚡ I’m currently Learning 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
