@@ -40,7 +40,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <details> 
 <summary>📊 GitHub Profile Stats</summary>
  <br/>
-<a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs" /></a>
+<a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,contribs" /></a>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
  
