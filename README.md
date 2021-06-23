@@ -23,15 +23,26 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 
  
  <img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
- <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
- <img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> 
  <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
- <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
  <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+ <img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> 
+ <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
+ <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+ <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
+ 
+ 
+ <h2 align='center'><i><a href="https://github.com/pawansarule/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/pawansarule/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+</br>
 
 
-#### 📈 My GitHub Stats
-
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansarule&hide=prs,issues,contribs&show_icons=true&theme=blue-green)](https://github.com/pawansarule/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&layout=compact&theme=blue-green&)](https://github.com/pawansarule/github-readme-stats)
+<details> 
+<summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
