@@ -30,7 +30,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
  <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
 
 
-📈 My GitHub Stats
+#### 📈 My GitHub Stats
 
 [![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansarule&hide=prs,issues,contribs&show_icons=true&theme=blue-green)](https://github.com/pawansarule/github-readme-stats)
 
