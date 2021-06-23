@@ -28,3 +28,8 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
  <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
  <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
  <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+
+
+📈 My GitHub Stats
+
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansarule&hide=prs,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/pawansarule/github-readme-stats)
