@@ -12,15 +12,13 @@
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white&link=https://sarulepawan.blogspot.com/)](https://sarulepawan.blogspot.com/)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=plastic&logo=Pinterest&logoColor=white&link=https://in.pinterest.com/pawansarule/)](https://in.pinterest.com/pawansarule/)
 
- 
- 
+
 ## ⚡ About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm an Aspiring Software Developer 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  
 ## ⚡ I’m currently Learning 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
  
-
  
 <img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
 <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
@@ -42,7 +40,6 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 
 <details> 
 <summary>📊 GitHub Profile Stats</summary>
-<br/>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs" /></a>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
@@ -50,7 +47,6 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 </details>
 <details> 
 <summary>💻 Streak stats</summary>
-<br/>
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-streak-stats">
 <img title="💻 Get streak stats for your profile at git.io/streak-stats" alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
