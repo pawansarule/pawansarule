@@ -22,16 +22,16 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
  
 
  
- <img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
- <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
- <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
- <img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> 
- <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
- <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
- <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
+<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+<img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> 
+<img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+<img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
  
- <h2 align='center'><i><a href="https://github.com/pawansarule/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<h2 align='center'><i><a href="https://github.com/pawansarule/github-readme-activity-graph">📈 Activity Graph</i></h2>
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -41,8 +41,16 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 
 
 <details> 
-<summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<summary>📊 GitHub Profile Stats</summary>
+<br/>
+<a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,issues,contribs" /></a>
+<a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
  
+</details>
+<details> 
+<summary>💻 Streak stats</summary>
+<br/>
+<p align="center">
+<a href="https://github.com/pawansarule/github-readme-streak-stats">
+<img title="💻 Get streak stats for your profile at git.io/streak-stats" alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
