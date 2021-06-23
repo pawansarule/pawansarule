@@ -32,4 +32,4 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 
 📈 My GitHub Stats
 
-[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansarule&hide=prs,issues,contribs&show_icons=true&theme=gotham)](https://github.com/pawansarule/github-readme-stats)
+[![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansarule&hide=prs,issues,contribs&show_icons=true&theme=blue-green)](https://github.com/pawansarule/github-readme-stats)
