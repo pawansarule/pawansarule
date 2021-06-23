@@ -29,7 +29,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
  
-## 📈 Activity Graph
+## 📉 Activity Graph
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -46,8 +46,8 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
  
 </details>
 <details> 
-<summary>💻 Streak stats</summary>
+<summary>📈 Streak stats</summary>
  <br/>
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-streak-stats">
-<img title="💻 Get streak stats for your profile at git.io/streak-stats" alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
+<img title="📈 Get streak stats for your profile at git.io/streak-stats" alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
