@@ -2,7 +2,7 @@
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=pawansarule&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
-### 📬 Find me at
+#### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/pawansarule/)](https://github.com/pawansarule/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-sarule/)](https://www.linkedin.com/in/pawan-sarule)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/sarulepavan)
@@ -29,7 +29,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
  
-## 📉 Activity Graph
+#### 📉 Activity Graph
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
