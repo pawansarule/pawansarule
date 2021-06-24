@@ -1,7 +1,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/pawansarule">Pawan Sarule</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=pawansarule&color=green&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=pawansarule&color=brightgreen&style=plastic&label=PROFILE+VIEWS)
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/pawansarule/)](https://github.com/pawansarule/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-sarule/)](https://www.linkedin.com/in/pawan-sarule)
