@@ -13,10 +13,10 @@
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=plastic&logo=Pinterest&logoColor=white&link=https://in.pinterest.com/pawansarule/)](https://in.pinterest.com/pawansarule/)
 
 
-## ⚡ About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm an Aspiring Software Developer 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
  
-## ⚡ I’m currently Learning 
+## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> I’m currently Learning 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
  
  
@@ -29,7 +29,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
  
-#### 📉 Activity Graph
+### <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -38,7 +38,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 </br>
 
 <details> 
-<summary>📊 GitHub Profile Stats</summary>
+<summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="24"> GitHub Profile Stats</summary>
  <br/>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,contribs" /></a>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -46,7 +46,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
  
 </details>
 <details> 
-<summary>📈 Streak stats</summary>
+<summary><img src="https://media3.giphy.com/media/Uv8Ta4p6YryoilH5Bp/giphy.gif?cid=6c09b952cdad3a55aa555f0e68dabfb0904f4b8c9520508e&rid=giphy.gif&ct=s" width="24"> Streak Stats</summary>
  <br/>
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-streak-stats">
