@@ -28,26 +28,18 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
- 
-## <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
-<p align="center">
-<a href="https://github.com/pawansarule/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-</br>
-
 <details> 
 <summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="19"> GitHub Profile Stats</summary>
  <br/>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,contribs" /></a>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
- 
 </details>
+
 <details> 
 <summary><img src="https://media3.giphy.com/media/Uv8Ta4p6YryoilH5Bp/giphy.gif?cid=6c09b952cdad3a55aa555f0e68dabfb0904f4b8c9520508e&rid=giphy.gif&ct=s" width="19"> Streak Stats</summary>
- <br/>
+<br/>
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-streak-stats">
 <img alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
+</details>
