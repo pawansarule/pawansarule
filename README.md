@@ -36,14 +36,21 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 </p>
 </br>
 
-<details> 
+<!--<details> 
 <summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="19"> GitHub Profile Stats</summary>
 <br/>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=pawansarule&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&hide=prs,contribs" /></a>
 <a href="https://github.com/pawansarule/github-readme-stats"><img alt="pawansarule's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-</details>
+</details>-->
 
+<details> 
+<summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="19"> GitHub Profile Stats</summary>
+ <br/>
+<a href="https://github.com/pawansarule/github-readme-stats/"><img height="117px" src="https://github-readme-stats.vercel.app/api?username=pawansarule&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide=prs,contribs" /><!-- wi*quL3fcV --><a href="https://github.com/pawansarule/github-readme-stats"><img height="117px" img alt="pawansarule's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<br/>
+</details>
+ 
 <details> 
 <summary><img src="https://media3.giphy.com/media/Uv8Ta4p6YryoilH5Bp/giphy.gif?cid=6c09b952cdad3a55aa555f0e68dabfb0904f4b8c9520508e&rid=giphy.gif&ct=s" width="19"> Streak Stats</summary>
 <br/>
