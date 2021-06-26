@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&fontSize=90)
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/pawansarule">Pawan Sarule</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
@@ -65,10 +66,10 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="19"> GitHub Profile Stats</summary>
 <br/>
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&fontSize=90)
 <a href="https://github.com/pawansarule/github-readme-stats/"><img height="118px" src="https://github-readme-stats.vercel.app/api?username=pawansarule&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide=prs,contribs" /><a href="https://github.com/pawansarule/github-readme-stats"><img height="118px" img alt="pawansarule's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansarule&&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer) 
 </a>
 <br/> 
 </details>
- 
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer) 
+
