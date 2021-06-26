@@ -36,6 +36,16 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 </p>
 </br>
 
+<details> 
+<summary><img src="https://media3.giphy.com/media/Uv8Ta4p6YryoilH5Bp/giphy.gif?cid=6c09b952cdad3a55aa555f0e68dabfb0904f4b8c9520508e&rid=giphy.gif&ct=s" width="19"> Streak Stats</summary>
+<br/>
+<p align="center">
+<a href="https://github.com/pawansarule/github-readme-streak-stats">
+<img alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+</a>
+<br/> 
+</details>
+
 <!--<details> 
 <summary><img src="https://media0.giphy.com/media/IzLejEn5juzsLN4AqX/giphy.gif?cid=6c09b95202d701c99b6d656b3bbfd11a5df50c10f17e6daa&rid=giphy.gif&ct=s" width="19"> GitHub Profile Stats</summary>
 <br/>
@@ -62,11 +72,3 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <br/> 
 </details>
  
-<details> 
-<summary><img src="https://media3.giphy.com/media/Uv8Ta4p6YryoilH5Bp/giphy.gif?cid=6c09b952cdad3a55aa555f0e68dabfb0904f4b8c9520508e&rid=giphy.gif&ct=s" width="19"> Streak Stats</summary>
-<br/>
-<p align="center">
-<a href="https://github.com/pawansarule/github-readme-streak-stats">
-<img alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/></a>
-<br/> 
-</details>
