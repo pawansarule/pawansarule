@@ -32,7 +32,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 ## <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&point=52fa5a&hide_border=true" width="100%">
 </a>
 </p>
 
