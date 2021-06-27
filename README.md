@@ -29,9 +29,16 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
 <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
  
-## <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
+<!--## <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
 <p align="center">
 <a href="https://github.com/pawansarule/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&point=52fa5a&hide_border=true" width="100%">
+</a>
+</p>-->
+
+## <img src="https://media0.giphy.com/media/0qjoCMz8Z8jaLZ6Yal/giphy.gif?cid=6c09b952d1e1bf12ca4ee98f8908b8a8115a3aa2de75ff42&rid=giphy.gif&ct=s" width="25"> Activity Graph
+<p align="center">
+<a href="https://camo.githubusercontent.com/d3b8c5d9b07881c1e00a608adce2e48e647d563732a9ff8f7afc1e670fa93030/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d706177616e736172756c65267468656d653d72656163742d6461726b26617265613d7472756526706f696e743d35326661356126686964655f626f726465723d74727565">
  <img src="https://activity-graph.herokuapp.com/graph?username=pawansarule&theme=react-dark&area=true&point=52fa5a&hide_border=true" width="100%">
 </a>
 </p>
