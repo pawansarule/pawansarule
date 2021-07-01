@@ -42,7 +42,7 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <br/>
 <p align="center">
 <a href="https://camo.githubusercontent.com/b7e5cba0b34ad9b2eb114f727953d18f88d409dbf5b12a376db50550c0a8cd1e/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d706177616e736172756c65267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3044313131372672696e673d36304439464126666972653d363044394641266375727253747265616b4c6162656c3d363044394641">
-<img alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA"/>
+<img alt="pawansarule's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pawansarule&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=60D9FA&fire=60D9FA&currStreakLabel=60D9FA&currStreakNum=52fa5a&sideNums=52fa5a&sideLabels=60D9FA"/>
 </a>
 <br/> 
 </details>
