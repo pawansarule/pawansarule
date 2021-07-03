@@ -6,8 +6,8 @@
 #### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/pawansarule/)](https://github.com/pawansarule/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-sarule/)](https://www.linkedin.com/in/pawan-sarule)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/sarulepavan)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:sarulepavan@gmail.com)](mailto:sarulepavan@gmail.com)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/sarulepavan)
 [![Instragram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/__yes_m_perfect__?)](https://instagram.com/__yes_m_perfect__?)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=plastic&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31yy7u25pjfs53qb2uv7lrygw6wa?si=egKUxAJ5RTiYJ9KSjjz3Hw&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/31yy7u25pjfs53qb2uv7lrygw6wa?si=egKUxAJ5RTiYJ9KSjjz3Hw&utm_source=copy-link&dl_branch=1)
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white&link=https://sarulepawan.blogspot.com/)](https://sarulepawan.blogspot.com/)
