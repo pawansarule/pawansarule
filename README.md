@@ -15,7 +15,7 @@
 
 
 ## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm an Aspiring Software Developer 💻 😃 I am passionate about coding and skilled in most of the popular languages. I also have a knack for public speaking. I’m a perfectionist who ensures that every task is completed with utmost attention to detail. <br/><br/>
+I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypvp.edu.in) . I'm an Aspiring Software Developer 💻 <img src="https://www.emoji.com/wp-content/uploads/filebase/3d%20icons/emoji-3d%20icons-glossy-3d-icons-%25F0%259F%2598%258E-%2509smiling-face-with-sunglasses-72dpi-forPersonalUseOnly.gif" width="21"> I am passionate about coding and skilled in most of the popular languages. I also have a knack for public speaking. I’m a perfectionist who ensures that every task is completed with utmost attention to detail. <br/><br/>
  
 ## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> I’m currently Learning 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
