@@ -57,4 +57,4 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 <br/> 
 </details>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
