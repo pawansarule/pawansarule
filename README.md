@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=140&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&fontSize=90)
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://github.com/pawansarule">Pawan Sarule</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
