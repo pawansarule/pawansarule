@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:sarulepavan@gmail.com)](mailto:sarulepavan@gmail.com)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/sarulepavan)
 [![Instragram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/pawansarule?)](https://www.instagram.com/pawansarule?)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=plastic&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31tdujyiwobgkdhfmwp6g3itmtwe?si=b141d512730847bf&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/31tdujyiwobgkdhfmwp6g3itmtwe?si=b141d512730847bf&utm_source=copy-link&dl_branch=1)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED761?&style=plastic&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31tdujyiwobgkdhfmwp6g3itmtwe?si=b141d512730847bf&utm_source=copy-link&dl_branch=1)](https://open.spotify.com/user/31tdujyiwobgkdhfmwp6g3itmtwe?si=b141d512730847bf&utm_source=copy-link&dl_branch=1)
 [![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=plastic&logo=blogger&logoColor=white&link=https://sarulepawan.blogspot.com/)](https://sarulepawan.blogspot.com/)
 [![Pinterest Badge](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=plastic&logo=Pinterest&logoColor=white&link=https://in.pinterest.com/pawansarule/)](https://in.pinterest.com/pawansarule/)
 
