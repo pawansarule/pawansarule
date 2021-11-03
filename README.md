@@ -2,7 +2,7 @@
 <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello! I am <a href="https://pawansarule.github.io/">Pawan Sarule</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=pawansarule&color=52fa5a&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=pawansarule&color=F70D1A&style=plastic&label=PROFILE+VIEWS)
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/open-mailbox-with-raised-flag_1f4ec.png" width="20"> Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=plastic&logo=github&link=https://github.com/pawansarule/)](https://github.com/pawansarule/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-sarule/)](https://www.linkedin.com/in/pawan-sarule)
