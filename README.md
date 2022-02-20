@@ -64,4 +64,4 @@ I'm BCA(Sci) Student at [ Dr. DY Patil ACS College,Pimpri-Pune](https://acs.dypv
 [![trophy](https://github-profile-trophy.vercel.app/?username=pawansarule&title=Commits,Stars,Repositories&theme=juicyfresh&row=1&column=3&margin-w=20&no-bg=true&no-frame=true)](https://github.com/pawansarule/github-profile-trophy)
 </details>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
