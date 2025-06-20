@@ -24,17 +24,21 @@ attitude, always looking to broaden my knowledge spectrum to acquire more
 understanding & experience.
 <img src="https://1.bp.blogspot.com/-YAc8tHuSoLg/Xq_2gi_CwUI/AAAAAAAAp2I/lFpt4mX_HvYGke58YJIsZDB4AXSJKn7pgCNcBGAsYHQ/s1600/laptop.gif" width="28"><br/><br/>
  
-## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> I’m currently Learning 
+## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> Tech Stack 🛠 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
  
- 
-<img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white">
-<img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue">
-<img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
-<img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> 
-<img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white">
-<img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-<img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white">
+<img height="20" src="https://img.shields.io/badge/java-%23ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img height="20" src="https://img.shields.io/badge/c%23-%23239120?style=plastic&logo=csharp&logoColor=white"> <img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white"> <img height="20" src="https://img.shields.io/badge/spring-%236DB33F?style=plastic&logo=spring&logoColor=white"> <img height="20" src="https://img.shields.io/badge/AWS-%23FF9900?style=plastic&logo=amazon-aws&logoColor=white">
+
+
+<img height="20" src="https://img.shields.io/badge/HTML-239120?style=plastic&logo=html5&logoColor=white&color=orange"> <img height="20" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white&color=blue"> <img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"> <img height="20" src="https://img.shields.io/badge/bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white"> <img height="20" src="https://img.shields.io/badge/react-%2320232a?style=plastic&logo=react&logoColor=white">
+
+
+<img height="20" src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=white"> <img height="20" src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"> <img height="20" src="https://img.shields.io/badge/c++-%2300599C?style=plastic&logo=c%2B%2B&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"> <img height="20" src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white">
+
+
+<img height="20" src="https://img.shields.io/badge/go-%2300ADD8?style=plastic&logo=go&logoColor=white"> <img height="20" src="https://img.shields.io/badge/php-%23777BB4?style=plastic&logo=php&logoColor=white"> <img height="20" src="https://img.shields.io/badge/r-%23276DC3?style=plastic&logo=r&logoColor=white"> <img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=plastic&logo=gnu-bash&logoColor=white"> <img height="20" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
 
 
 
