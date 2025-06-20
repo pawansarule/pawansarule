@@ -16,13 +16,13 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=plastic&logo=Quora&logoColor=white&link=https://www.quora.com/profile/PAWAN-SARULE/)](https://www.quora.com/profile/PAWAN-SARULE/)
 
 ## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> About Me  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-An enthusiastic fresher Software developer, eager to contribute to company successes 
+<img src="https://1.bp.blogspot.com/-YAc8tHuSoLg/Xq_2gi_CwUI/AAAAAAAAp2I/lFpt4mX_HvYGke58YJIsZDB4AXSJKn7pgCNcBGAsYHQ/s1600/laptop.gif" width="28">An enthusiastic fresher Software developer, eager to contribute to company successes 
 through innovative and forward-thinking approaches, adaptability, and attention to detail. 
 Adept in Technologies like Java Full Stack Development, clear understanding of OOP 
 concepts. A very fast learner with tenacity, a growth-oriented mindset, and go-getter 
 attitude, always looking to broaden my knowledge spectrum to acquire more 
 understanding & experience.
-<img src="https://1.bp.blogspot.com/-YAc8tHuSoLg/Xq_2gi_CwUI/AAAAAAAAp2I/lFpt4mX_HvYGke58YJIsZDB4AXSJKn7pgCNcBGAsYHQ/s1600/laptop.gif" width="28"><br/><br/>
+<br/><br/>
  
 ## <img src="https://media0.giphy.com/media/2wXzHRJttakUh5m53W/giphy.gif?cid=6c09b952a1f50be6aca1384a681a754d110fd8eedadedfcd&rid=giphy.gif&ct=s" width="30"> Tech Stack 🛠 
 <img align="right" alt="GIF" src="https://github.com/pawansarule/pawansarule/blob/main/code.gif?raw=true" width="500" height="320" />
